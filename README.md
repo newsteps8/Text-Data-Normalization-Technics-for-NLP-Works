@@ -1,1 +1,1 @@
-# Text-Data-Normalization-for-NLP-Works
+# Some Text Data Normalization Technics for NLP Works
